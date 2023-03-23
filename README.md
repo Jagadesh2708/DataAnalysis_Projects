@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jagadesh Guttikonda! <br/><a href="https://github.com/Jagadesh2708/DataAnalysis_Projects">Data Analyst and System Administrator </a> <a href="https://www.linkedin.com/in/jagadesh-guttikonda-177654154/</a>
 
-</b> <h2>👨‍💻 Data Analysis Projects:</h2> </b>
+</b> <h2> 👨‍💻 Data Analysis Projects: </h2> 
 
 - <b>Data Analysis and Visualisation Projects using PowerBI </b>
   - [Superstore Sales Data Analysis]()
