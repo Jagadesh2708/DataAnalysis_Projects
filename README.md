@@ -6,7 +6,7 @@
   - [Superstore Sales Data Analysis](https://github.com/Jagadesh2708/SalesAnalysis-/blob/main/README.md)
   - [IPL Teams Statistics Data Analysis](https://github.com/Jagadesh2708/IPLDataAnalysis)
 - <b>Data Analysis Projects using Python</b>
-  - [Fake_news_detection]()
+  - [Fake_news_detection](https://github.com/Jagadesh2708/PythonProjects/blob/main/README.md)
   - [Twitterfeeds_Sentiment_analysis]()
 
 
