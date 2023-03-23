@@ -1,10 +1,10 @@
-<h1>Hi, I'm Jagadesh Guttikonda! <br/><a href="https://github.com/Jagadesh2708/DataAnalysis_Projects">Data Analyst and System Administrator </a> <a href="https://www.linkedin.com/in/jagadesh-guttikonda-177654154/</a>
+<h1>Hi, I'm Jagadesh Guttikonda! <br/><a href="[https://github.com/Jagadesh2708]">Data Analyst and System Administrator </a> <a href="https://www.linkedin.com/in/jagadesh-guttikonda-177654154/</a></h1>
 
-</b> <h2> 👨‍💻 Data Analysis Projects: </h2> 
+ <h2> 👨‍💻 Data Analysis Projects: </h2> 
 
-- <b>Data Analysis and Visualisation Projects using PowerBI </b>
-  - [Superstore Sales Data Analysis]()
-  - [IPL Teams Statistics Data Analysis]()
+- Data Analysis and Visualisation Projects using PowerBI
+  - <b> [Superstore Sales Data Analysis]() </b> 
+  - [IPL Teams Statistics Data Analysis]() 
   
 - <b>Data Analysis Projects using Python </b>
   - [Fake_news_detection]() <b>
@@ -21,6 +21,4 @@
 
 
 [linkedin]:  https://www.linkedin.com/in/jagadesh-guttikonda-177654154
-
-
 
