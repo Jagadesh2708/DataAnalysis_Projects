@@ -20,7 +20,7 @@
 
 
 
-[linkedin]:
+[linkedin]:  https://www.linkedin.com/in/jagadesh-guttikonda-177654154
 
 
 
