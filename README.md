@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data Analysis and Visualisation Projects using PowerBI</b>
-  - [Superstore Sales Data Analysis]()
+  - [Superstore Sales Data Analysis](https://github.com/Jagadesh2708/SalesAnalysis-/blob/main/README.md)
   - [IPL Teams Statistics Data Analysis]()
 - <b>Data Analysis Projects using Python</b>
   - [Fake_news_detection]()
