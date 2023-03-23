@@ -4,7 +4,7 @@
 
 - <b>Data Analysis and Visualisation Projects using PowerBI</b>
   - [Superstore Sales Data Analysis](https://github.com/Jagadesh2708/SalesAnalysis-/blob/main/README.md)
-  - [IPL Teams Statistics Data Analysis]()
+  - [IPL Teams Statistics Data Analysis](https://github.com/Jagadesh2708/IPLDataAnalysis)
 - <b>Data Analysis Projects using Python</b>
   - [Fake_news_detection]()
   - [Twitterfeeds_Sentiment_analysis]()
