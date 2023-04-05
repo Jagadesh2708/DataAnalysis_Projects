@@ -7,7 +7,7 @@
   - [IPL Teams Statistics Data Analysis](https://github.com/Jagadesh2708/IPLDataAnalysis)
 - <b>Data Analysis Projects using Python</b>
   - [Fake_news_detection](https://github.com/Jagadesh2708/PythonProjects/blob/main/README.md)
-  - [Twitterfeeds_Sentiment_analysis]()
+  - [Twitterfeeds_Sentiment_analysis](https://github.com/Jagadesh2708/TwitterFeed_SentimentAnalysis/blob/main/README.md)
   
   <h2>Certification<h2>
   - Microsoft Power BI Data Analyst Associate<img src="https://i.imgur.com/7DRA9Pk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
