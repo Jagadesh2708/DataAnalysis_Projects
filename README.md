@@ -7,7 +7,7 @@
   - [IPL Teams Statistics Data Analysis](https://github.com/Jagadesh2708/IPLDataAnalysis)
   - [Staff_Usage_Stats](https://github.com/Jagadesh2708/Staff_Usage_Stats.git)
   - [Talis Aspire](https://github.com/Jagadesh2708/TalisAspire.git)
-  - Library_Data_Reporting_Information(https://github.com/Jagadesh2708/Library-Data-Reporting-Information.git)
+  - [Library_Data_Reporting_Information](https://github.com/Jagadesh2708/Library-Data-Reporting-Information.git)
 - <b>Data Analysis Projects using Python</b>
   - [Fake_news_detection](https://github.com/Jagadesh2708/PythonProjects/blob/main/README.md)
   - [Twitterfeeds_Sentiment_analysis](https://github.com/Jagadesh2708/TwitterFeed_SentimentAnalysis/blob/main/README.md)
